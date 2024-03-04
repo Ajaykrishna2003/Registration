@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35068647971",
+    "project_id": "registration-77f71",
+    "storage_bucket": "registration-77f71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35068647971:android:c3d14d943d61200f21ef96",
+        "android_client_info": {
+          "package_name": "com.example.registerform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdxtklvzMiHtODyX4Ws6ax_9dWau712vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
